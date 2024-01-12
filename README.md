@@ -1,3 +1,8 @@
+It is a basic react webapp that allows you to reject tours based on interest uses useState hook , tailwindCss and netlify for deployment 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
